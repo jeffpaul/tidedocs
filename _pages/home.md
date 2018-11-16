@@ -28,7 +28,7 @@ Tide services are responsible for the following:
 
 The following diagram notes the Google Cloud Platform (GCP) components, Tide services components, and pending link with WordPress.org for the PHP Compatibility integration.
 
-![architecture diagram](http://tidedocs.local/wp-content/uploads/2018/11/logo.png)
+![architecture diagram](http://tidedocs.local/wp-content/uploads/2018/11/architecture-diagram.png)
 
 ## Working with Tide
 
