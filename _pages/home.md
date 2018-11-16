@@ -1,6 +1,6 @@
 ---
 ID: 24
-post_title: Home
+post_title: ""
 author: jeffpaul
 post_excerpt: ""
 layout: page
