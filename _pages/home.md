@@ -8,9 +8,9 @@ permalink: http://tidedocs.local/
 published: true
 post_date: 2018-11-16 01:45:51
 ---
-> A rising tide lifts all boats. -- United States President, John F. Kennedy (borrowed from the New England Council)
-
 ## Vision
+
+> A rising tide lifts all boats. -- United States President, John F. Kennedy (borrowed from the New England Council)
 
 Inspired by the proverb _“A rising tide lifts all boats”_, when we lower the barrier of entry to writing and choosing quality code for enough people, it will lift the quality of code across the whole WordPress ecosystem. Tide’s vision is to make it easy to improve the quality of code throughout the WordPress ecosystem and help WordPress site owners make better choices about plugins and themes.
 
